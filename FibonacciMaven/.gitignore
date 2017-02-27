@@ -1,0 +1,12 @@
+.idea/
+/FibonacciMaven/.idea/compiler.xml
+/FibonacciMaven/.idea/libraries/Maven__junit_junit_4_12.xml
+/FibonacciMaven/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml
+/FibonacciMaven/.idea/libraries/Maven__pl_sda_sort_1_0_SNAPSHOT.xml
+/FibonacciMaven/.idea/misc.xml
+/FibonacciMaven/.idea/modules.xml
+/FibonacciMaven/.idea/workspace.xml
+/FibonacciMaven/facade.iml
+/FibonacciMaven/target/*
+target/
+*.iml
